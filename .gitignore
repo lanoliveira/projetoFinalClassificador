@@ -1,0 +1,8 @@
+.png
+.jpg
+.jpeg
+.csv
+__pycache__/
+archive/
+images_full/**
+images_split/**
