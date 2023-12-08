@@ -1,7 +1,7 @@
-*.png
-*.jpg
-*.jpeg
-*.csv
+/*.png
+/*.jpg
+/*.jpeg
+/*.csv
 __pycache__/
 archive/
 images_full/*
