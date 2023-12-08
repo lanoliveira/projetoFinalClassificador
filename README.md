@@ -15,6 +15,9 @@ O descritor LBP é um descritor de textura em imagens que compara os valores de 
 
 O código fonte e demais arquivos relacionados ao projeto estão disponíveis no repositório [projetoFinalClassificador](https://github.com/lanoliveira/projetoFinalClassificador).
 
+## Vídeo de Apresentação
+[*Apresentação do projeto.*](https://drive.google.com/file/d/1wIbzf2vNau3g9SIb6bdsEDNqn2sTnc2L/view?usp=sharing)
+
 ## Dataset
 
 O dataset utilizado foi o [COVID-19 & Normal Posteroanterior(PA) X-rays](https://www.kaggle.com/tarandeep97/covid19-normal-posteroanteriorpa-xrays), o mesmo é composto por 280 imagens de raios-X de tórax e estão dividos em duas categorias, covid e normal.
