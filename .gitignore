@@ -4,7 +4,9 @@
 .csv
 __pycache__/
 archive/
-images_full/*/
-images_split/*/
+images_full/test/*/
+images_full/train/*/
+images_split/test/*/
+images_split/train/*/
 
 
